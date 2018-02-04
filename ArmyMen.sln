@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmyMen", "ArmyMen\ArmyMen.csproj", "{AA3510D4-EED4-45E8-B2B9-4611B5B0ED5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA3510D4-EED4-45E8-B2B9-4611B5B0ED5F}.Debug|x86.ActiveCfg = Debug|x86
+		{AA3510D4-EED4-45E8-B2B9-4611B5B0ED5F}.Debug|x86.Build.0 = Debug|x86
+		{AA3510D4-EED4-45E8-B2B9-4611B5B0ED5F}.Release|x86.ActiveCfg = Release|x86
+		{AA3510D4-EED4-45E8-B2B9-4611B5B0ED5F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB5888FB-CA19-44A9-A7B2-83D05DE52876}
+	EndGlobalSection
+EndGlobal
